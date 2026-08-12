@@ -1,5 +1,5 @@
-[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
-Thank you [CodeRabbit](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
+[![JEPS KENYA](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
+Thank you [JEPS KENYA](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
 
 # :ledger: App Ideas Collection
 

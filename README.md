@@ -1,5 +1,5 @@
 [![JEPS KENYA](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
-Thank you [JEPS KENYA](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
+Sponsered by [JEPS KENYA](https://www.brevian.online) 
 
 # :ledger: App Ideas Collection
 

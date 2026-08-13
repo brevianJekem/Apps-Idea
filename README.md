@@ -6,12 +6,12 @@ Sponsered by [JEPS KENYA](https://www.brevian.online)
 # :ledger: App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
-authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
+authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all!
 
 These applications are:
 
 -   great for improving your coding skills :muscle:;
--   great for experimenting with new technologies 🆕;
+-   great for experimenting with new technologies ;
 -   great for adding to your portfolio to impress your next employer/client :file_folder:;
 -   great for using as examples in tutorials (articles or videos) :page_with_curl:;
 -   easy to complete and also easily extendable with new features :ok_hand:;
@@ -38,7 +38,7 @@ required to complete them.
 |  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
 |  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 
-🌟 - New Project
+ - New Project
 
 ### Tier-1: Beginner Projects
 
@@ -145,7 +145,7 @@ required to complete them.
 
 ## Plans for the future
 
-We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
+We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 
 
 We are also planning to create a website where you can easily browse through all of the projects.
 
@@ -158,22 +158,19 @@ Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 ### Examples
 
-You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
+You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 
 
 ## Spread the word!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback! 
+[Send feedback](https://brevian.online)
 
-### Main Contributors 🙂🙂
 
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+## 100Days100Projects 
 
-## 100Days100Projects 🚀
-
-As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
+As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 
 
 ## Stars history
 

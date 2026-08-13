@@ -10,11 +10,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
--   great for improving your coding skills :muscle:;
+-   great for improving your coding skills;
 -   great for experimenting with new technologies ;
--   great for adding to your portfolio to impress your next employer/client :file_folder:;
--   great for using as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
+-   great for adding to your portfolio to impress your next employer/client ;
+-   great for using as examples in tutorials (articles or videos);
+-   easy to complete and also easily extendable with new features;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
@@ -162,7 +162,7 @@ You can also add your own examples to the projects after you have completed them
 
 ## Spread the word!
 
-If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
+If the information from this repo was useful to you in any way, make sure you give it a star , this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback! 
 [Send feedback](https://brevian.online)
